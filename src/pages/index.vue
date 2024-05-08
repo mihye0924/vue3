@@ -1,5 +1,6 @@
 <template> 
   <div>Home Page</div>
+  <div>테스트</div>
   <div>{{count}}</div>
   <button @click="count++">Increment</button>
 </template>
